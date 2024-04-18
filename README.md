@@ -1,3 +1,3 @@
-# Modulo_8_2
+# Ebac - Colecting Bananas
 
 Developed with Unreal Engine 4
